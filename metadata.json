@@ -1,0 +1,5 @@
+{
+  "name": "Fitty Behavior Loops",
+  "description": "A dashboard visualizing the Cue, Action, Reward, Reinforce behavior loop for a fitness application, showcasing user stats, reminders, actions, rewards, and progress reinforcement.",
+  "requestFramePermissions": []
+}
